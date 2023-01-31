@@ -4,7 +4,7 @@ import { ShoppingCartIcon } from '@heroicons/react/24/solid'
 export function Product() {
 
   return (
-  <div className='w-2/4 md:w-[540px] lg:w-[856px] bg-white rounded-lg absolute'>
+  <div className='w-10/12 md:w-[540px] lg:w-[856px] bg-white rounded-lg absolute'>
     <div className='flex flex-col md:flex-row justify-between items-center overflow-hidden'>
       
       <div className='bg-cover bg-center object-contain bg-[url("/images/image-product-desktop.jpg")] w-full h-72 md:h-[30em] rounded-t-lg md:rounded-none md:rounded-l-lg'>
